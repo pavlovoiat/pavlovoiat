@@ -80,7 +80,7 @@ Development happens entirely in **Android Studio** on Arch Linux. First release 
 ## 🌍 Languages
 
 - 🇺🇦 **Ukrainian** — Native
-- 🇷🇺 **Russian** — Native-level
+- 🇷🇺 **Russian** — Native
 - 🇩🇪 **German** — Fluent
 - 🇪🇸 **Spanish** — Basic
 - 🇬🇧 **English** — Fluent

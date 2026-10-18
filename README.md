@@ -81,9 +81,9 @@ Development happens entirely in **Android Studio** on Arch Linux. First release 
 
 - 🇺🇦 **Ukrainian** — Native
 - 🇷🇺 **Russian** — Native-level
-- 🇩🇪 **German** — Studying (Gymnasium, 13th grade)
+- 🇩🇪 **German** — Fluent
 - 🇪🇸 **Spanish** — Basic
-- 🇬🇧 **English** — Fluent comprehension (YouTube, docs, TikTok)
+- 🇬🇧 **English** — Fluent
 
 ---
 

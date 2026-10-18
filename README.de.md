@@ -80,10 +80,10 @@ Die Entwicklung findet komplett in **Android Studio** unter Arch Linux statt. Da
 ## 🌍 Sprachen
 
 - 🇺🇦 **Ukrainisch** — Muttersprache
-- 🇷🇺 **Russisch** — auf Muttersprachniveau
-- 🇩🇪 **Deutsch** — in Ausbildung (Gymnasium, 13. Klasse)
+- 🇷🇺 **Russisch** — Muttersprache
+- 🇩🇪 **Deutsch** — fließend
 - 🇪🇸 **Spanisch** — Grundkenntnisse
-- 🇬🇧 **Englisch** — fließendes Verständnis (YouTube, Doku, TikTok)
+- 🇬🇧 **Englisch** — fließend
 
 ---
 
